@@ -226,7 +226,7 @@
                 <div class="col-md-6">
                   <div class="mb-2">
                     <label class="form-label">User Name</label>
-                    <input type="text" readonly class="form-control" name="firstName" value="<?=$ticket["firstName"]?>">
+                    <input type="text" readonly class="form-control" name="firstName" value="<?=$ticket["user_name"]?>">
                   </div>
                   <div class="mb-2">
                     <label class="form-label">Email</label>
